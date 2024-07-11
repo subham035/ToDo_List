@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278652454033",
+    "project_id": "todo-list-app-ebb34",
+    "storage_bucket": "todo-list-app-ebb34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278652454033:android:12d9c29c12062360b36b30",
+        "android_client_info": {
+          "package_name": "com.example.todolistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR3lSM68ObMHzg_-5M6cuhdlbeVq_TGhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
